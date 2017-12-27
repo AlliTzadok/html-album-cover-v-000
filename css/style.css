@@ -26,7 +26,8 @@ body {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 40px;
+  font-weight: 600;
   line-height: 1em;
   letter-spacing: 1px;
   margin-bottom: 2px;
@@ -34,7 +35,8 @@ h1 {
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 40px;
+  font-weight: 600;
   line-height: 1em;
   letter-spacing: 1px;
   margin-bottom: 2px;
